@@ -1,0 +1,279 @@
+sep=,
+Date,Time,Item,SKU,Quantity,Unit price,Total discount,Unit cost price,Gross profit,Total (incl tax),Status
+2025/02/12,13:54:56,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/12,13:46:47,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/12,12:03:36,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/12,11:49:57,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/12,11:34:04,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/12,11:34:04,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/12,11:34:04,Barry White,MM-BAW,1,35.00,0.00,,,35.00,Approved
+2025/02/12,10:29:56,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/12,10:29:56,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/12,10:25:03,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/12,10:19:19,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/12,10:17:44,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/12,10:17:44,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/12,10:10:53,Magic Johnson,MM-MAG,2,30.00,0.00,,,60.00,Approved
+2025/02/12,09:42:46,Syrup,MM-SYR,1,7.00,0.00,,,7.00,Approved
+2025/02/12,09:42:46,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/12,09:42:46,Barry White,MM-BAW,1,35.00,0.00,,,35.00,Approved
+2025/02/12,09:41:12,Barry White,MM-BAW,1,35.00,0.00,,,35.00,Approved
+2025/02/12,09:31:41,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/12,09:25:39,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/12,09:25:39,Barry White,MM-BAW,1,35.00,0.00,,,35.00,Approved
+2025/02/12,09:11:09,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/12,09:09:35,Magic Johnson,MM-MAG,2,30.00,0.00,,,60.00,Approved
+2025/02/12,08:47:38,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/12,07:57:25,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/12,07:51:49,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/12,07:19:29,Danny De Vito,MM-DDV,1,25.00,0.00,,,25.00,Approved
+2025/02/11,15:52:13,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/11,15:52:13,Tilda Swinton,MM-TSW,2,35.00,0.00,,,70.00,Approved
+2025/02/11,12:38:35,MmFreeze,MM-FRZ,3,45.00,0.00,,,135.00,Approved
+2025/02/11,12:38:35,Magic Johnson,MM-MAG,3,30.00,0.00,,,90.00,Approved
+2025/02/11,12:11:54,Harry,MM-HAR,1,40.00,0.00,,,40.00,Approved
+2025/02/11,12:11:54,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/11,12:09:28,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/11,11:48:25,Tilda Swinton,MM-TSW,2,35.00,0.00,,,70.00,Approved
+2025/02/11,11:42:29,MmFreeze,MM-FRZ,2,45.00,0.00,,,90.00,Approved
+2025/02/11,11:08:39,Decaf,MM-DEC,1,7.00,0.00,,,7.00,Approved
+2025/02/11,11:08:39,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/11,11:08:00,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/11,11:08:00,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/11,10:49:23,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/11,10:16:55,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/11,10:15:40,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/11,10:00:26,Alt Milk,MM-ALT,1,10.00,0.00,,,10.00,Approved
+2025/02/11,10:00:26,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/11,09:56:14,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/11,08:25:08,Barry White,MM-BAW,1,35.00,0.00,,,35.00,Approved
+2025/02/11,08:19:40,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/11,08:08:02,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/11,08:05:50,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/11,07:47:39,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/11,07:32:43,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/10,15:53:53,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/10,14:04:14,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/10,13:55:51,Siya Kolisi,MM-SYK,3,40.00,0.00,,,120.00,Approved
+2025/02/10,13:53:35,Magic Johnson,MM-MAG,2,30.00,0.00,,,60.00,Approved
+2025/02/10,13:19:29,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/10,13:19:29,Tilda Swinton,MM-TSW,1,35.00,0.00,,,35.00,Approved
+2025/02/10,12:08:40,MmFreeze,MM-FRZ,2,45.00,0.00,,,90.00,Approved
+2025/02/10,10:51:43,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/10,09:52:55,Magic Johnson,MM-MAG,2,30.00,0.00,,,60.00,Approved
+2025/02/10,09:29:20,Siya Kolisi,MM-SYK,3,40.00,0.00,,,120.00,Approved
+2025/02/10,08:59:40,Alt Milk,MM-ALT,1,10.00,0.00,,,10.00,Approved
+2025/02/10,08:59:40,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/10,08:55:39,Tilda Swinton,MM-TSW,1,35.00,0.00,,,35.00,Approved
+2025/02/10,08:55:14,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/10,08:54:34,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/10,08:51:31,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/10,08:51:31,Decaf,MM-DEC,1,7.00,0.00,,,7.00,Approved
+2025/02/10,08:07:16,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/10,07:26:00,Syrup,MM-SYR,1,7.00,0.00,,,7.00,Approved
+2025/02/10,07:26:00,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/10,07:18:35,Syrup,MM-SYR,1,7.00,0.00,,,7.00,Approved
+2025/02/10,07:18:35,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/10,07:14:21,Danny De Vito,MM-DDV,1,25.00,0.00,,,25.00,Approved
+2025/02/09,13:10:17,Trevor Noah,MM-TRE,1,42.00,0.00,,,42.00,Approved
+2025/02/09,13:10:17,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/09,11:38:44,Tilda Swinton,MM-TSW,1,35.00,0.00,,,35.00,Approved
+2025/02/09,11:07:47,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/09,11:05:43,Magic Johnson,MM-MAG,2,30.00,0.00,,,60.00,Approved
+2025/02/09,10:56:51,Milkshakes (Standard),MIL001,2,50.00,0.00,,,100.00,Approved
+2025/02/09,10:56:51,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/09,10:47:20,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/09,10:23:05,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/09,10:23:05,Decaf,MM-DEC,1,7.00,0.00,,,7.00,Approved
+2025/02/09,09:59:14,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/09,09:53:58,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/09,09:50:14,Tilda Swinton,MM-TSW,1,35.00,0.00,,,35.00,Approved
+2025/02/09,08:57:17,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/09,08:55:26,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/09,08:42:30,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/09,07:15:11,Barry White,MM-BAW,2,35.00,0.00,,,70.00,Approved
+2025/02/08,13:14:37,Robert De Niro,MM-RDN,1,32.00,0.00,,,32.00,Approved
+2025/02/08,12:59:31,MmFreeze,MM-FRZ,1,45.00,0.00,,,45.00,Approved
+2025/02/08,12:39:09,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/08,10:47:44,Magic Johnson,MM-MAG,2,30.00,0.00,,,60.00,Approved
+2025/02/08,10:23:26,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/08,10:23:26,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/08,10:23:26,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/08,10:08:55,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/08,09:25:45,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/08,08:58:15,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/08,08:56:17,Trevor Noah,MM-TRE,1,42.00,0.00,,,42.00,Approved
+2025/02/08,08:42:52,Tilda Swinton,MM-TSW,1,35.00,0.00,,,35.00,Approved
+2025/02/08,08:17:38,Danny De Vito,MM-DDV,1,25.00,0.00,,,25.00,Approved
+2025/02/08,08:14:22,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/08,07:29:09,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/08,07:23:22,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/08,07:11:13,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/07,15:44:00,Harry,MM-HAR,1,40.00,0.00,,,40.00,Approved
+2025/02/07,15:40:24,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/07,11:53:58,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/07,11:23:42,Barry White,MM-BAW,2,35.00,0.00,,,70.00,Approved
+2025/02/07,11:13:36,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/07,10:48:26,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/07,10:23:37,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/07,10:23:37,Tilda Swinton,MM-TSW,1,35.00,0.00,,,35.00,Approved
+2025/02/07,10:04:56,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/07,10:02:49,MmFreeze,MM-FRZ,1,45.00,0.00,,,45.00,Approved
+2025/02/07,09:44:26,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/07,09:32:17,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/07,09:32:17,Decaf,MM-DEC,1,7.00,0.00,,,7.00,Approved
+2025/02/07,09:22:22,Steve Austin,MM-AUS,2,40.00,0.00,,,80.00,Approved
+2025/02/07,09:03:15,Barry White,MM-BAW,1,35.00,0.00,,,35.00,Approved
+2025/02/07,08:59:06,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/07,08:55:22,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/07,08:42:39,Tilda Swinton,MM-TSW,1,35.00,0.00,,,35.00,Approved
+2025/02/07,08:42:39,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/07,08:39:30,Danny De Vito,MM-DDV,1,25.00,0.00,,,25.00,Approved
+2025/02/07,08:39:30,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/07,08:09:16,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/07,08:08:54,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/07,07:52:11,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/07,07:52:11,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/07,07:47:10,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/07,07:41:47,Syrup,MM-SYR,2,7.00,0.00,,,14.00,Approved
+2025/02/07,07:41:47,Barry White,MM-BAW,2,35.00,0.00,,,70.00,Approved
+2025/02/07,07:31:52,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/07,07:22:28,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/06,15:55:12,Barry White,MM-BAW,1,35.00,0.00,,,35.00,Approved
+2025/02/06,14:16:44,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/06,14:16:44,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/06,14:06:10,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/06,14:05:51,Trevor Noah,MM-TRE,1,42.00,0.00,,,42.00,Approved
+2025/02/06,13:12:17,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/06,13:04:50,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/06,12:31:38,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/06,12:17:57,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/06,12:04:16,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/06,11:52:33,Tilda Swinton,MM-TSW,2,35.00,0.00,,,70.00,Approved
+2025/02/06,11:32:28,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/06,11:32:28,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/06,11:31:53,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/06,11:28:17,Ed Sheeran,MM-EDS,2,42.00,0.00,,,84.00,Approved
+2025/02/06,11:18:19,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/06,11:13:42,Justin Bieber,MM-JBB,1,13.00,0.00,,,13.00,Approved
+2025/02/06,11:01:00,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/06,10:56:46,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/06,10:08:39,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/06,10:00:23,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/06,09:11:27,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/06,09:00:50,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/06,08:46:14,Beyoncé,MM-BEY,1,40.00,0.00,,,40.00,Approved
+2025/02/06,08:43:27,Barry White,MM-BAW,1,35.00,0.00,,,35.00,Approved
+2025/02/06,08:37:12,Siya Kolisi,MM-SYK,3,40.00,0.00,,,120.00,Approved
+2025/02/06,08:26:58,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/06,08:23:38,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/06,08:09:43,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/06,08:01:39,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/06,07:44:47,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/06,07:42:19,Syrup,MM-SYR,2,7.00,0.00,,,14.00,Approved
+2025/02/06,07:42:19,Barry White,MM-BAW,2,35.00,0.00,,,70.00,Approved
+2025/02/06,07:20:00,Danny De Vito,MM-DDV,1,25.00,0.00,,,25.00,Approved
+2025/02/06,07:18:09,Danny De Vito,MM-DDV,1,25.00,0.00,,,25.00,Approved
+2025/02/05,15:22:03,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/05,13:56:06,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/05,13:38:16,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/05,13:31:23,Siya Kolisi,MM-SYK,3,40.00,0.00,,,120.00,Approved
+2025/02/05,11:35:31,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/05,10:29:36,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/05,09:38:43,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/05,08:46:30,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/05,08:11:58,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/05,07:57:58,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/05,07:52:22,Syrup,MM-SYR,1,7.00,0.00,,,7.00,Approved
+2025/02/05,07:52:22,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/05,07:49:05,Syrup,MM-SYR,2,7.00,0.00,,,14.00,Approved
+2025/02/05,07:49:05,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/05,07:18:30,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/04,13:25:20,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/04,12:40:46,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/04,11:48:57,Beyoncé,MM-BEY,1,40.00,0.00,,,40.00,Approved
+2025/02/04,11:48:57,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/04,11:48:57,Alt Milk,MM-ALT,1,10.00,0.00,,,10.00,Approved
+2025/02/04,10:18:20,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/04,09:17:55,Magic Johnson,MM-MAG,2,30.00,0.00,,,60.00,Approved
+2025/02/04,09:08:25,Barry White,MM-BAW,1,35.00,0.00,,,35.00,Approved
+2025/02/04,08:24:53,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/04,08:10:42,Lewis Hamilton,MM-LEW,2,30.00,0.00,,,60.00,Approved
+2025/02/04,08:07:08,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/04,07:42:07,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/04,07:38:23,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/04,07:26:49,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/04,07:24:45,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/03,15:59:46,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/03,13:38:35,Iced Krushers (Mango),IK001,1,35.00,0.00,,,35.00,Approved
+2025/02/03,13:05:33,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/03,13:00:30,MmFreeze,MM-FRZ,1,45.00,0.00,,,45.00,Approved
+2025/02/03,12:09:01,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/03,12:09:01,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/03,11:41:38,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/03,11:19:26,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/03,11:14:08,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/03,11:14:08,Alt Milk,MM-ALT,1,10.00,0.00,,,10.00,Approved
+2025/02/03,11:11:01,Danny De Vito,MM-DDV,1,25.00,0.00,,,25.00,Approved
+2025/02/03,10:50:45,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/03,10:39:20,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/03,10:26:01,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/03,10:03:00,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/03,10:03:00,Barry White,MM-BAW,1,35.00,0.00,,,35.00,Approved
+2025/02/03,08:49:30,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/03,08:49:30,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/03,08:21:21,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/03,08:18:37,Syrup,MM-SYR,1,7.00,0.00,,,7.00,Approved
+2025/02/03,08:18:37,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/03,08:10:24,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/03,08:07:54,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/03,08:06:17,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/03,08:06:17,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/03,08:06:17,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/03,07:21:10,Danny De Vito,MM-DDV,1,25.00,0.00,,,25.00,Approved
+2025/02/02,14:01:20,Beyoncé,MM-BEY,1,40.00,0.00,,,40.00,Approved
+2025/02/02,13:44:50,Steve Austin,MM-AUS,2,40.00,0.00,,,80.00,Approved
+2025/02/02,10:55:42,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/02,10:50:26,Tilda Swinton,MM-TSW,2,35.00,0.00,,,70.00,Approved
+2025/02/02,10:48:29,Barry White,MM-BAW,2,35.00,0.00,,,70.00,Approved
+2025/02/02,10:33:37,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/02,10:30:17,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/02,10:30:17,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/02,10:26:46,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/02,10:19:10,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/02,10:14:22,Tilda Swinton,MM-TSW,1,35.00,0.00,,,35.00,Approved
+2025/02/02,10:14:22,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/02,10:00:50,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/02,10:00:50,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/02,09:38:04,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/02,09:38:04,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/02,09:29:07,Extra Shot,MM-EXS,1,7.00,0.00,,,7.00,Approved
+2025/02/02,09:29:07,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/02,09:05:33,Justin Bieber,MM-JBB,1,13.00,0.00,,,13.00,Approved
+2025/02/02,09:05:08,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/02,08:59:53,Beyoncé,MM-BEY,1,40.00,0.00,,,40.00,Approved
+2025/02/02,08:43:26,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/02,08:36:00,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/01,13:35:12,Magic Johnson,MM-MAG,1,30.00,0.00,,,30.00,Approved
+2025/02/01,13:35:12,Danny De Vito,MM-DDV,1,25.00,0.00,,,25.00,Approved
+2025/02/01,13:32:24,Siya Kolisi,MM-SYK,2,40.00,0.00,,,80.00,Approved
+2025/02/01,12:21:35,Barry White,MM-BAW,1,35.00,0.00,,,35.00,Approved
+2025/02/01,11:53:11,Steve Austin,MM-AUS,2,40.00,0.00,,,80.00,Approved
+2025/02/01,11:36:30,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/01,11:23:59,Milkshakes (Standard),MIL001,2,50.00,0.00,,,100.00,Approved
+2025/02/01,11:21:12,Trevor Noah,MM-TRE,1,42.00,0.00,,,42.00,Approved
+2025/02/01,11:07:56,Decaf,MM-DEC,1,7.00,0.00,,,7.00,Approved
+2025/02/01,11:07:56,Tilda Swinton,MM-TSW,1,35.00,0.00,,,35.00,Approved
+2025/02/01,09:40:22,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/01,09:40:22,Barry White,MM-BAW,1,35.00,0.00,,,35.00,Approved
+2025/02/01,09:24:26,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/01,09:16:13,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/01,09:11:31,Lewis Hamilton,MM-LEW,1,30.00,0.00,,,30.00,Approved
+2025/02/01,09:04:45,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/01,08:57:07,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/01,08:53:39,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/01,08:49:45,Steve Austin,MM-AUS,1,40.00,0.00,,,40.00,Approved
+2025/02/01,08:39:48,Barry White,MM-BAW,1,35.00,0.00,,,35.00,Approved
+2025/02/01,08:12:24,Siya Kolisi,MM-SYK,1,40.00,0.00,,,40.00,Approved
+2025/02/01,08:12:24,Alt Milk,MM-ALT,1,10.00,0.00,,,10.00,Approved
+2025/02/01,08:12:04,Siya Kolisi,MM-SYK,6,40.00,0.00,,,240.00,Approved
